@@ -29,8 +29,8 @@ window.SITE = {
 
   bio: [
     "Here to share uncaptured Third Culture perspectives.",
-    "I went to UBC in my hometown Vancouver and worked in hardware/ consulting/ SaaS. I've also lived in HK and SZ.",
-    "Recently I've been spending time in Tokyo and Nagano. I also keep a messy bookshelf."
+    "I went to UBC in my hometown Vancouver and worked in hardware/ consulting/ SaaS.",
+    "Recently I've been spending time in Tokyo and Nagano."
   ],
 
   bookshelfNote: "",
