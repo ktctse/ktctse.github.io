@@ -36,10 +36,10 @@ window.SITE = {
   bookshelfNote: "",
 
   links: [
-    { label: "LinkedIn", href: "https://www.linkedin.com/in/tsekevin/" }
-    // , { label: "X",        href: "https://x.com/yourhandle" }
-    // , { label: "Substack", href: "https://yourname.substack.com" }
-    { label: "Github", href: "https://github.com/ktctse" }
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/tsekevin/" },
+    { label: "Github",   href: "https://github.com/ktctse" },
+    // { label: "X",        href: "https://x.com/yourhandle" },
+    // { label: "Substack", href: "https://yourname.substack.com" },
   ],
 
   /* --------------------------------- MIND -------------------------------- */
