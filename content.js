@@ -30,7 +30,7 @@ window.SITE = {
   bio: [
     "Here to share uncaptured Third Culture perspectives.",
     "I went to UBC in my hometown Vancouver and worked in hardware/ consulting/ SaaS. I've also lived in HK and SZ.",
-    "Recently I've been spending time in Tokyo and Nagano. I sometimes keep a messy bookshelf."
+    "Recently I've been spending time in Tokyo and Nagano. I also keep a messy bookshelf."
   ],
 
   bookshelfNote: "",
@@ -44,7 +44,7 @@ window.SITE = {
 
   /* --------------------------------- MIND -------------------------------- */
 
-  mindIntro: "Sometimes I jot down ideas, and share booklists",
+  mindIntro: "Sometimes I jot down ideas and share booklists",
 
   mind: [
     {
