@@ -28,8 +28,8 @@ window.SITE = {
   /* ------------------------------- HOMEPAGE ------------------------------- */
 
   bio: [
-    "Here to write in public about the uncaptured bits of East Asia.",
-    "I went to UBC in my hometown Vancouver and worked in hardware/ SaaS/ consulting. I've also lived in HK, SZ, and SH.",
+    "Here to share uncaptured Third Culture perspectives.",
+    "I went to UBC in my hometown Vancouver and worked in hardware/ consulting/ SaaS. I've also lived in Hong Kong and Shenzhen.",
     "Recently I've been spending time in Tokyo and Nagano. I sometimes keep a messy bookshelf."
   ],
 
@@ -39,11 +39,12 @@ window.SITE = {
     { label: "LinkedIn", href: "https://www.linkedin.com/in/tsekevin/" }
     // , { label: "X",        href: "https://x.com/yourhandle" }
     // , { label: "Substack", href: "https://yourname.substack.com" }
+    // , { label: "Github", href: "https://github.com/ktctse" }
   ],
 
   /* --------------------------------- MIND -------------------------------- */
 
-  mindIntro: "Sometimes I write, jot down ideas, and share booklists",
+  mindIntro: "Sometimes I jot down ideas, and share booklists",
 
   mind: [
     {
