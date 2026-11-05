@@ -39,7 +39,7 @@ window.SITE = {
     { label: "LinkedIn", href: "https://www.linkedin.com/in/tsekevin/" }
     // , { label: "X",        href: "https://x.com/yourhandle" }
     // , { label: "Substack", href: "https://yourname.substack.com" }
-    // , { label: "Github", href: "https://github.com/ktctse" }
+    { label: "Github", href: "https://github.com/ktctse" }
   ],
 
   /* --------------------------------- MIND -------------------------------- */
